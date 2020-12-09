@@ -1,4 +1,7 @@
 # Temp
 # > EMBY终点站
 host-suffix, pub1.emby.wtf, DIRECT
-host, 88.99.26.232, DIRECT
+host, 88.99.26.232/32, DIRECT
+# > EMBY普拉斯影业
+host-suffix,  emby.plusmedia.site, DIRECT
+host-suffix,  connect.emby.media, DIRECT
