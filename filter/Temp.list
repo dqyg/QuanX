@@ -1,8 +1,10 @@
 # Temp
 # > EMBY终点站
-HOST-SUFFIX, pub1.emby.wtf, DIRECT
-IP-CIDR, 88.99.26.232/32, DIRECT
+HOST-SUFFIX,pub1.emby.wtf,DIRECT
+IP-CIDR,88.99.26.232/32,DIRECT
 # > EMBY普拉斯影业
-HOST-SUFFIX,  emby.plusmedia.site, DIRECT
-HOST-SUFFIX,  connect.emby.media, DIRECT
-IP-CIDR,  167.86.116.30/32, DIRECT
+HOST-SUFFIX,emby.plusmedia.site,DIRECT
+HOST-SUFFIX,connect.emby.media,DIRECT
+IP-CIDR,167.86.116.30/32,DIRECT
+# > flurry
+DOMAIN,data.flurry.com,DIRECT
