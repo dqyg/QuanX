@@ -8,5 +8,5 @@ HOST,connect.emby.media,DIRECT
 IP-CIDR,167.86.116.30/32,DIRECT
 # > flurry
 HOST,data.flurry.com,DIRECT
-# > turinglabs
+# > 互助码
 HOST,api.turinglabs.net,DIRECT
