@@ -4,9 +4,11 @@ HOST,pub1.emby.wtf,DIRECT
 IP-CIDR,88.99.26.232/32,DIRECT
 # > EMBY普拉斯影业
 HOST,emby.plusmedia.site,DIRECT
-HOST,connect.emby.media,DIRECT
+HOST,bgp.emby.mickeycloud.com,DIRECT
 IP-CIDR,167.86.116.30/32,DIRECT
 IP-CIDR,45.137.217.217/32,DIRECT
+# > EMBY
+HOST,connect.emby.media,PROXY
 # > flurry
 HOST,data.flurry.com,REJECT
 # > 互助码
