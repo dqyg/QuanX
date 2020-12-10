@@ -10,4 +10,4 @@ IP-CIDR,45.137.217.217/32,DIRECT
 # > flurry
 HOST,data.flurry.com,REJECT
 # > 互助码
-HOST,api.turinglabs.net,DIRECT
+HOST,api.turinglabs.net,PROXY
