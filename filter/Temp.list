@@ -2,11 +2,13 @@
 # > EMBY终点站
 HOST,pub1.emby.wtf,DIRECT
 HOST,pub1ntt.emby.wtf,DIRECT
+HOST,pub1ntt2.emby.wtf,DIRECT
 HOST,pub1cf.emby.wtf,DIRECT
 IP-CIDR,88.99.26.232/32,DIRECT
 
 HOST,pub2.emby.wtf,DIRECT
 HOST,pub2ntt.emby.wtf,DIRECT
+HOST,pub2ntt2.emby.wtf,DIRECT
 HOST,pub2cf.emby.wtf,DIRECT
 
 # > EMBY普拉斯影业
