@@ -1,24 +1,34 @@
 # Temp
 # > EMBY终点站
+IP-CIDR,88.99.26.232/32,DIRECT
+
 HOST,pub1.emby.wtf,DIRECT
 HOST,pub1ntt.emby.wtf,DIRECT
 HOST,pub1ntt2.emby.wtf,DIRECT
 HOST,pub1cf.emby.wtf,DIRECT
-IP-CIDR,88.99.26.232/32,DIRECT
 
 HOST,pub2.emby.wtf,DIRECT
 HOST,pub2ntt.emby.wtf,DIRECT
 HOST,pub2ntt2.emby.wtf,DIRECT
 HOST,pub2cf.emby.wtf,DIRECT
 
+HOST,pub3.emby.wtf,DIRECT
+HOST,pub3ntt.emby.wtf,DIRECT
+HOST,pub3ntt.emby.wtf,DIRECT
+HOST,pub3cf.emby.wtf,DIRECT
+
 # > EMBY普拉斯影业
-HOST,emby.plusmedia.site,DIRECT
-HOST,bgp.emby.mickeycloud.com,DIRECT
 IP-CIDR,167.86.116.30/32,DIRECT
 IP-CIDR,45.137.217.217/32,DIRECT
+
+HOST,emby.plusmedia.site,DIRECT
+HOST,bgp.emby.mickeycloud.com,DIRECT
+
 # > EMBY
 HOST,connect.emby.media,PROXY
+
 # > flurry
 HOST,data.flurry.com,REJECT
+
 # > 互助码
 HOST,api.turinglabs.net,PROXY
