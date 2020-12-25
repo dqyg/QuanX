@@ -3,18 +3,21 @@
 IP-CIDR,88.99.26.232/32,DIRECT
 
 HOST,pub1.emby.wtf,DIRECT
+HOST,pub1jp.emby.wtf,DIRECT
 HOST,pub1ntt.emby.wtf,DIRECT
-HOST,pub1ntt2.emby.wtf,DIRECT
+HOST,pub1sgp.emby.wtf,DIRECT
 HOST,pub1cf.emby.wtf,DIRECT
 
 HOST,pub2.emby.wtf,DIRECT
+HOST,pub2jp.emby.wtf,DIRECT
 HOST,pub2ntt.emby.wtf,DIRECT
-HOST,pub2ntt2.emby.wtf,DIRECT
+HOST,pub2sgp.emby.wtf,DIRECT
 HOST,pub2cf.emby.wtf,DIRECT
 
 HOST,pub3.emby.wtf,DIRECT
+HOST,pub3jp.emby.wtf,DIRECT
 HOST,pub3ntt.emby.wtf,DIRECT
-HOST,pub3ntt.emby.wtf,DIRECT
+HOST,pub3sgp.emby.wtf,DIRECT
 HOST,pub3cf.emby.wtf,DIRECT
 
 # > EMBY普拉斯影业
