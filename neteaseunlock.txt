@@ -1,4 +1,1 @@
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, obfs=ws, fast-open=false, udp-relay=false, tag=解锁网易云节点-如风
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=解锁网易云节点-Lolico
-shadowsocks=proxy.plusmedia.site:58080, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=解锁网易云节点-普拉斯PC
-shadowsocks=proxy.plusmedia.site:58081, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=解锁网易云节点-普拉斯IOS
