@@ -1,0 +1,18 @@
+# EMBY
+# > Emby终点站
+HOST-SUFFIX,emby.wtf,EMBY
+
+# > 普拉斯影业
+HOST-SUFFIX,plusmedia.site,EMBY
+HOST-SUFFIX,mickeycloud.com,EMBY
+HOST-SUFFIX,xeton.dev,EMBY
+
+# > 卷毛鼠超级影院
+HOST-SUFFIX,emby.jmsooo.com,EMBY
+
+# > OtakuDrive
+HOST,emby.ok.edu.hk,EMBY
+
+# > 跑车emby
+HOST-SUFFIX,cjpc.xyz,EMBY
+HOST,H.paoche.ooo,EMBY
