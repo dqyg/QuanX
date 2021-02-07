@@ -1,36 +1,21 @@
 # Temp
-# > EMBY终点站
-IP-CIDR,88.99.26.232/32,DIRECT
+# > Emby终点站
+HOST-SUFFIX,emby.wtf,EMBY
 
-HOST,pub1.emby.wtf,DIRECT
-HOST,pub1jp.emby.wtf,DIRECT
-HOST,pub1ntt.emby.wtf,DIRECT
-HOST,pub1sgp.emby.wtf,DIRECT
-HOST,pub1cf.emby.wtf,DIRECT
+# > 普拉斯影业
+HOST-SUFFIX,plusmedia.site,EMBY
+HOST-SUFFIX,mickeycloud.com,EMBY
+HOST-SUFFIX,xeton.dev,EMBY
 
-HOST,pub2.emby.wtf,DIRECT
-HOST,pub2jp.emby.wtf,DIRECT
-HOST,pub2ntt.emby.wtf,DIRECT
-HOST,pub2sgp.emby.wtf,DIRECT
-HOST,pub2cf.emby.wtf,DIRECT
+# > 卷毛鼠超级影院
+HOST-SUFFIX,emby.jmsooo.com,EMBY
 
-HOST,pub3.emby.wtf,DIRECT
-HOST,pub3jp.emby.wtf,DIRECT
-HOST,pub3ntt.emby.wtf,DIRECT
-HOST,pub3sgp.emby.wtf,DIRECT
-HOST,pub3cf.emby.wtf,DIRECT
+# > OtakuDrive
+HOST,emby.ok.edu.hk,EMBY
 
-# > EMBY普拉斯影业
-IP-CIDR,167.86.116.30/32,DIRECT
-IP-CIDR,45.137.217.217/32,DIRECT
-
-HOST-SUFFIX,emby.plusmedia.site,DIRECT
-HOST,bgp.emby.mickeycloud.com,DIRECT
-
-# > 卷毛鼠
-HOST,emby.jmsooo.com,DIRECT
-HOST,emby1.jmsooo.com,DIRECT
-HOST,emby2.jmsooo.com,DIRECT
+# > 跑车emby
+HOST-SUFFIX,cjpc.xyz,EMBY
+HOST,H.paoche.ooo,EMBY
 
 # > EMBY
 HOST,connect.emby.media,PROXY
