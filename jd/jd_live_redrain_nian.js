@@ -58,6 +58,7 @@ let ids = {
     $.msg($.name, '【提示】请先获取京东账号一cookie\n直接使用NobyDa的京东签到获取', 'https://bean.m.jd.com/', {"open-url": "https://bean.m.jd.com/"});
     return;
   }
+/*
   await getRedRain();
 
   let nowTs = new Date().getTime()
@@ -74,6 +75,7 @@ let ids = {
   } else{
     $.log(`远程红包雨配置获取成功`)
   }
+*/
   for (let i = 0; i < cookiesArr.length; i++) {
     if (cookiesArr[i]) {
       cookie = cookiesArr[i];
@@ -114,7 +116,7 @@ function showMsg() {
     resolve()
   })
 }
-
+/*
 function getRedRain() {
   return new Promise(resolve => {
     $.get({
@@ -143,7 +145,7 @@ function getRedRain() {
     })
   })
 }
-
+*/
 function receiveRedRain() {
   return new Promise(resolve => {
     const body = {"actId": $.activityId};
