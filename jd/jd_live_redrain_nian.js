@@ -43,6 +43,7 @@ const JD_API_HOST = 'https://api.m.jd.com/api';
 let ids = {
   '0': 'RRA3S6TRRbnNNuGN43oHMA5okbcXmRY',
   '9': 'RRA3S6TRRbnNNuGN43oHMA5okbcXmRY',
+  '11': 'RRA3S6TRRbnNNuGN43oHMA5okbcXmRY',
   '13': 'RRA3S6TRRbnNNuGN43oHMA5okbcXmRY',
   '15': 'RRA3S6TRRbnNNuGN43oHMA5okbcXmRY',
   '17': 'RRA3S6TRRbnNNuGN43oHMA5okbcXmRY',
